@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Kuzma17\\Searchable\\": "src/"
+            "Nicolaslopezj\\Searchable\\": "src/"
         }
     },
     "minimum-stability": "stable"
