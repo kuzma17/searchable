@@ -1,5 +1,5 @@
 {
-    "name": "kuzma17/searchable",
+    "name": "nicolaslopezj/searchable",
     "description": "Eloquent model search trait.",
     "keywords": ["laravel", "eloquent", "search", "searchable", "database", "model"],
     "license": "MIT",
